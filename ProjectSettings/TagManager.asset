@@ -43,20 +43,20 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Post
+  - Glowing
+  - Scannable Object
+  - FogVolumeShadowCaster
+  - FogVolume
+  - FogVolumeSurrogate
+  - FogVolumeUniform
+  - WaterLighting
+  - AtmosphericEffects
+  - Flare
+  - SpeedrunUI
+  - DisableInPictureMode
+  - DisableInVideoMode
+  - ACSCulling
   - 
   - 
   - 
@@ -70,4 +70,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Interact Prompt
+    uniqueID: 3696534669
     locked: 0
